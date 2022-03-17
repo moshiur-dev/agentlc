@@ -1,0 +1,18 @@
+.own-site {
+  background-color: #67f0c2;
+  padding: 6px;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+.own-site a {
+  text-decoration: none;
+  color:#000
+}
+.own-site a:hover {
+  text-decoration: underline;
+  color:#fff
+}
+.footer {
+  width: 1164px;
+}

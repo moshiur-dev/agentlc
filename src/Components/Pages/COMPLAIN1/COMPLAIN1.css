@@ -1,0 +1,26 @@
+.COMPLAIN1 {
+  margin-left: auto;
+  margin-right: auto;
+}
+.admin-agent th {
+  background-color: #516aa2;
+  color: #fff;
+  font-weight: 700;
+  font-size: 16px;
+  text-align: center;
+  padding: 3px;
+}
+.admin-agent {
+  font-family: lucida sans unicode, lucida grande, sans-serif;
+  font-size: 16px;
+  margin: auto;
+  background-color: #ccc;
+}
+.agent-admin-content {
+  margin-left: auto;
+  margin-right: auto;
+}
+.COMPLAIN1-NUMBER h1 {
+  text-align: center;
+  font-size: 32px;
+}

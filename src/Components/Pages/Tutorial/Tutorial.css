@@ -1,0 +1,31 @@
+.playlist {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+.video-title {
+  text-align: start;
+  font-weight: 400;
+}
+.video-player-bg {
+  background-color: #cae4fd;
+  box-shadow: rgba(203, 206, 209, 0.664) 0px 1px 2px 0px,
+    rgba(238, 238, 238, 0.657) 0px 1px 3px 1px;
+}
+.video-search {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+.nav-pills .nav-link.active {
+  background-color: rgb(27 127 204 / 80%);
+  font-weight: bold;
+  text-transform: uppercase;
+  transition: 0.5s;
+}
+.nav-pills .nav-link.active:hover {
+  color: #ff9900;
+  background-color: #292929;
+}

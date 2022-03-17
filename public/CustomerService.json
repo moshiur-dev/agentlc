@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "type": "CUSTOMER SERVICE",
+        "name": "ARMAN MALIK",
+        "phone": "+601123674713",
+        "facebook": "https://www.facebook.com/jisankhan.Tusky",
+        "messenger": "https://m.me/jisankhan.Tusky"
+    },
+    {
+        "id": "2",
+        "type": "CUSTOMER SERVICE",
+        "name": "ADNAN SAMI",
+        "phone": "+601123673063",
+        "facebook": "https://www.facebook.com/jisankhan.Tusky",
+        "messenger": "https://m.me/jisankhan.Tusky"
+    },
+    {
+        "id": "3",
+        "type": "CUSTOMER SERVICE",
+        "name": "IMRAN TARAFDAR",
+        "phone": "+601124255228",
+        "facebook": "https://www.facebook.com/jisankhan.Tusky",
+        "messenger": "https://m.me/jisankhan.Tusky"
+    },
+    {
+        "id": "4",
+        "type": "CS MANAGER",
+        "name": "ATIF ASLAM",
+        "phone": "+60172769682",
+        "facebook": "https://www.facebook.com/jisankhan.Tusky",
+        "messenger": "https://m.me/jisankhan.Tusky"
+    }
+]
